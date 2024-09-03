@@ -1,6 +1,7 @@
 # cappy-pugliese.github.io
 
-![Image of Cappy Pugliese](images/headshot.png "REPLACE_WITH_SHORT_DESCRIPTION")
+<img src="https://github.com/cap1324/cappy-pugliese.github.io/blob/read-me-branch/Cappy_4.JPG" width="250">
+
 
 ## About Me
 I am an MS student in the UConn EEB department interested in REPLACE_WITH_YOUR_PROFESSIONAL_INTERESTS.
@@ -8,3 +9,5 @@ I am an MS student in the UConn EEB department interested in REPLACE_WITH_YOUR_P
 [My CV](PDFs/cv.pdf)
 
 [Contact Info](contact-info.html) 
+
+
