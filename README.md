@@ -1,6 +1,6 @@
 # Cappy Pugliese (they/them)
 
-<img src="https://github.com/cap1324/cappy-pugliese.github.io/blob/read-me-branch/Cappy_4.JPG" width="250">
+<img src="https://github.com/cap1324/cappy-pugliese.github.io/blob/main/Cappy_4.JPG" width="250">
 
 
 ## About Me
