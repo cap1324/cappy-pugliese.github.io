@@ -1,2 +1,2 @@
-put contact info here
-[Back to homepage](https://cappy-pugliese.github.io/)
+<p>put contact info here</p>
+<p> [Back to homepage](https://cappy-pugliese.github.io/) </p>
