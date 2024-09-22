@@ -1,6 +1,8 @@
 # Cappy Pugliese (they/them)
 
-<img src="https://github.com/cap1324/cappy-pugliese.github.io/blob/read-me-branch/Cappy_4.JPG" width="250">
+<img src="https://github.com/cappy-pugliese/cappy-pugliese.github.io/blob/main/docs/assets/images/Cappy-profile-photo.jpg" width="250">
+
+./assets/images/Cappy-profile-photo.jpg
 
 ## About Me
 I am an Ecology and Evolutionary Biology Masters student at the University of Connecticut. I also completed my undergraduate studies at UConn, working in the [Klassen lab](https://www.jonathanklassenlab.com/) where I researched pathogenic fungi within the attini ant-fungi symbiosis.
