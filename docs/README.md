@@ -1,6 +1,6 @@
 # Cappy Pugliese (they/them)
 
-[<img src="./assets/images/Cappy-profile-photo.jpg" width="150" />](./assets/images/Cappy-profile-photo.jpg)
+[<img src="./assets/images/Cappy-profile-photo.jpg" width="200" />](./assets/images/Cappy-profile-photo.jpg)
 
 
 ## About Me
