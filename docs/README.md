@@ -1,4 +1,4 @@
-View in [Github Pages](https://cappy-pugliese.github.io/)
+View in [Github Pages](https://cappy-pugliese.github.io/) or on [Github](https://github.com/cappy-pugliese/cappy-pugliese.github.io)
 
 # Cappy Pugliese (they/them)
 
