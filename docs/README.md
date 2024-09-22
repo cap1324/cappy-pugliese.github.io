@@ -13,4 +13,4 @@ Currently, I am working in the [Dagilis lab](https://adagilis.github.io/) focusi
 
 My CV
 
-[Contact Info](./contact.md)
+[Contact Info](/docs/contact.md)
