@@ -1,3 +1,5 @@
+View in [Github Pages](https://cappy-pugliese.github.io/)
+
 # Cappy Pugliese (they/them)
 
 [<img src="./assets/images/Cappy-profile-photo.jpg" width="200" />](./assets/images/Cappy-profile-photo.jpg)
