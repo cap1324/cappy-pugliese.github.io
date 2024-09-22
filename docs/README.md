@@ -11,6 +11,6 @@ I am an Ecology and Evolutionary Biology Masters student at the University of Co
 Currently, I am working in the [Dagilis lab](https://adagilis.github.io/) focusing on the pathogenic fungus responsible for White-Nose Bat Syndrome (_Pseudogymnoascus destructans_) utilizing population genetics.
 
 
-[My CV](PDFs/cv.pdf)
+My CV
 
 [Contact Info](./contact.md)
