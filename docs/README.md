@@ -1,6 +1,6 @@
 # Cappy Pugliese (they/them)
 
-<img src="https://github.com/cappy-pugliese/cappy-pugliese.github.io/blob/main/docs/assets/images/Cappy-profile-photo.jpg" width="250">
+[<img src="./assets/images/Cappy-profile-photo.jpg" width="250" />](./assets/images/Cappy-profile-photo.jpg)
 
 ./assets/images/Cappy-profile-photo.jpg
 
