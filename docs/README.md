@@ -10,4 +10,4 @@ Currently, I am working in the [Dagilis lab](https://adagilis.github.io/) focusi
 
 [My CV](PDFs/cv.pdf)
 
-[Contact Info](contact-info.html)
+[Contact Info](./contact.md)
