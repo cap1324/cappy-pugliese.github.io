@@ -2,7 +2,7 @@ View in [Github Pages](https://cappy-pugliese.github.io/) or on [Github](https:/
 
 # Cappy Pugliese (they/them)
 
-[<img src="/assets/images/Cappy-profile-photo.jpg" width="200" />](/assets/images/Cappy-profile-photo.jpg)
+[<img src="../assets/images/Cappy-profile-photo.jpg" width="200" />](../assets/images/Cappy-profile-photo.jpg)
 
 
 ## About Me
